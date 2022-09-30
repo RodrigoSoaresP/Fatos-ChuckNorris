@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Fatos.Infra\Fatos.Infra.csproj" />
+    <ProjectReference Include="..\Fatos.Modelo\Fatos.Modelo.csproj" />
+  </ItemGroup>
+
+</Project>

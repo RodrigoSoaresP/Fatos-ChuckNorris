@@ -1,0 +1,17 @@
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Negocio\bin\Debug\net6.0\Fatos.Negocio.deps.json
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Negocio\bin\Debug\net6.0\Fatos.Negocio.dll
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Negocio\bin\Debug\net6.0\Fatos.Negocio.pdb
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Negocio\bin\Debug\net6.0\Fatos.Infra.dll
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Negocio\bin\Debug\net6.0\Fatos.Modelo.dll
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Negocio\bin\Debug\net6.0\Fatos.Infra.pdb
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Negocio\bin\Debug\net6.0\Fatos.Modelo.pdb
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Negocio\obj\Debug\net6.0\Fatos.Negocio.csproj.AssemblyReference.cache
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Negocio\obj\Debug\net6.0\Fatos.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Negocio\obj\Debug\net6.0\Fatos.Negocio.AssemblyInfoInputs.cache
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Negocio\obj\Debug\net6.0\Fatos.Negocio.AssemblyInfo.cs
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Negocio\obj\Debug\net6.0\Fatos.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Negocio\obj\Debug\net6.0\Fatos.Negocio.csproj.CopyComplete
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Negocio\obj\Debug\net6.0\Fatos.Negocio.dll
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Negocio\obj\Debug\net6.0\refint\Fatos.Negocio.dll
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Negocio\obj\Debug\net6.0\Fatos.Negocio.pdb
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Negocio\obj\Debug\net6.0\ref\Fatos.Negocio.dll

@@ -1,0 +1,17 @@
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Infra\bin\Debug\net6.0\Fatos.Infra.deps.json
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Infra\bin\Debug\net6.0\Fatos.Infra.runtimeconfig.json
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Infra\bin\Debug\net6.0\Fatos.Infra.dll
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Infra\bin\Debug\net6.0\Fatos.Infra.pdb
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Infra\bin\Debug\net6.0\Fatos.Modelo.dll
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Infra\bin\Debug\net6.0\Fatos.Modelo.pdb
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Infra\obj\Debug\net6.0\Fatos.Infra.csproj.AssemblyReference.cache
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Infra\obj\Debug\net6.0\Fatos.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Infra\obj\Debug\net6.0\Fatos.Infra.AssemblyInfoInputs.cache
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Infra\obj\Debug\net6.0\Fatos.Infra.AssemblyInfo.cs
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Infra\obj\Debug\net6.0\Fatos.Infra.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Infra\obj\Debug\net6.0\Fatos.Infra.csproj.CopyComplete
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Infra\obj\Debug\net6.0\Fatos.Infra.dll
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Infra\obj\Debug\net6.0\refint\Fatos.Infra.dll
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Infra\obj\Debug\net6.0\Fatos.Infra.pdb
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Infra\obj\Debug\net6.0\Fatos.Infra.genruntimeconfig.cache
+C:\Users\rodrigo.pereira\Desktop\ChuckNorris\FatosChuckNorris\Fatos.Infra\obj\Debug\net6.0\ref\Fatos.Infra.dll
